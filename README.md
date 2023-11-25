@@ -1,2 +1,3 @@
 # Jokes-Generator
-This project is about joke game
+This project is about joke game.
+
